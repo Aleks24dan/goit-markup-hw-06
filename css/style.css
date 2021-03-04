@@ -156,28 +156,30 @@ ul {
 .list-contact {
   display: flex;
 }
+
 .list-contact-item a {
   display: flex;
   align-items: center;
   padding-top: 25px;
   padding-bottom: 25px;
 }
+
 .list-contact-item:first-child {
   margin-right: 30px;
 }
+
 .list-contact-item {
   align-content: center;
   transition-duration: 250ms;
 }
-.list-contact-item a {
-  display: inline-flex;
-}
+
 .contact-icon-envelope {
   width: 16px;
   height: 12px;
   margin-right: 10px;
   fill: currentColor;
 }
+
 .contact-icon-smartphone {
   width: 10px;
   height: 16px;
